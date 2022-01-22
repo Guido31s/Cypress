@@ -1,0 +1,7 @@
+{
+    "searchIcon": "#search_mini_form > .actions",
+    "searchType": "#search",
+    "searchButton": ".action.search",
+    "buyButton": "form > .action",
+    "description": ".price-installments > p"
+}
